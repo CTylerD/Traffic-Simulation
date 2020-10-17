@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Tyla/desktop/Programming/Udacity/4C++/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.cpp
+iostream
+-
+random
+-
+chrono
+-
+TrafficLight.h
+/Users/Tyla/desktop/Programming/Udacity/4C++/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.h
+queue
+-
+future
+-
+unistd.h
+-
+thread
+-
+
+/Users/Tyla/desktop/Programming/Udacity/4C++/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.h
+mutex
+-
+deque
+-
+condition_variable
+-
+string
+-
+TrafficObject.h
+/Users/Tyla/desktop/Programming/Udacity/4C++/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
+
+/Users/Tyla/desktop/Programming/Udacity/4C++/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
+vector
+-
+thread
+-
+mutex
+-
+
