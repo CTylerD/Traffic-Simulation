@@ -1,4 +1,4 @@
-# CPPND: Program a Concurrent Traffic Simulation
+# Concurrent Traffic Simulation
 
 ## Udacity C++ Nanodegree - Project #4
 
