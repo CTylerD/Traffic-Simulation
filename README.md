@@ -31,8 +31,8 @@ Project prompt:
 
 ## Contributing Authors
 
-Udacity  
-C. Tyler Dennis
+C. Tyler Dennis  
+Udacity
 
 ## Licensing
 
