@@ -22,7 +22,7 @@ Project prompt:
   * Mac: same deal as make - [install Xcode command line tools](https://developer.apple.com/xcode/features/)
   * Windows: recommend using [MinGW](http://www.mingw.org/)
 
-## Basic Build Instructions
+## Compiling and Running
 
 1. Clone this repo.
 2. Make a build directory in the top level directory: `mkdir build && cd build`
@@ -33,3 +33,7 @@ Project prompt:
 
 Udacity  
 C. Tyler Dennis
+
+## Licensing
+
+This project is released under the [MIT License](https://opensource.org/licenses/MIT)
