@@ -1,7 +1,5 @@
 # Concurrent Traffic Simulation
 
-## Udacity C++ Nanodegree - Project #4
-
 <img src="data/traffic_simulation.gif"/> 
 
 Project prompt:
@@ -31,8 +29,7 @@ Project prompt:
 
 ## Contributing Authors
 
-C. Tyler Dennis\
-Udacity
+C. Tyler Dennis
 
 ## Licensing
 
